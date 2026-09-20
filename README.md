@@ -42,12 +42,6 @@ The project uses a React frontend, a Java Spring Boot REST backend, and MySQL fo
 - Email/OTP support for the existing password-recovery workflow.
 - MySQL database integration.
 
-### No Firebase / No Profile Images
-
-This submission intentionally does **not** use Google Firebase, Firebase Authentication, Firebase Storage, or profile-image storage.
-
-The application stores normal academic and account data in MySQL. Profile avatars shown in the UI are generated from the user's initials and are not stored as image files.
-
 ## 👥 Roles and Functionalities
 
 ### 1. HOD
@@ -180,9 +174,7 @@ There are **no default lecturer names** in the attendance screens. Attendance hi
 ### Storage
 
 - MySQL
-- No Firebase
-- No Firebase Storage
-- No profile-image database/file storage
+
 
 ## 🚀 Project Structure
 
