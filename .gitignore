@@ -1,0 +1,21 @@
+# Java / Maven
+**/target/
+*.class
+
+# Node / Vite
+**/node_modules/
+**/dist/
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local secrets/config overrides
+.env
+.env.*
