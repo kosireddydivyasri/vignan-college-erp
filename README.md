@@ -6,16 +6,6 @@ The **Vignan College ERP System** is a role-based academic management applicatio
 
 The project uses a React frontend, a Java Spring Boot REST backend, and MySQL for persistent data. The application was originally based on the open-source **College-ERP-Using-Reactjs-And-Java-Spring-Boot** project and has been substantially adapted for this academic submission.
 
-### Major changes made for this version
-
-- Removed Firebase and Firebase Storage.
-- Removed student/professor/HOD profile-image upload and image-storage functionality.
-- Removed profile-image fields and image-reading code from the application.
-- Removed old author/personal branding from the UI.
-- Changed application branding to **Vignan College ERP**.
-- Reworked student, professor, HOD, semester, subject, and attendance flows to use live MySQL data instead of demo data.
-- Removed hard-coded sample semester subjects, marks, lecturer names, and attendance choices.
-- Added role-specific profile pages and database-backed academic records.
 
 ## 🌟 Features
 
