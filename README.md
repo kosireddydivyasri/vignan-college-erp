@@ -4,8 +4,7 @@
 
 The **Vignan College ERP System** is a role-based academic management application developed as a B.Tech final-year mini project. It brings common academic and administrative workflows into one web application for **HODs, Professors, and Students**.
 
-The project uses a React frontend, a Java Spring Boot REST backend, and MySQL for persistent data. The application was originally based on the open-source **College-ERP-Using-Reactjs-And-Java-Spring-Boot** project and has been substantially adapted for this academic submission.
-
+The project uses a React frontend, a Java Spring Boot REST backend, and MySQL for persistent data. 
 
 ## 🌟 Features
 
