@@ -298,17 +298,6 @@ Email features that require SMTP credentials must be configured in the backend `
 
 The project is intended as an academic demonstration of a College ERP architecture. For production deployment, additional security hardening would be appropriate, including password hashing, stronger authentication/session management, authorization at every API endpoint, validation, audit logging, secret management, and HTTPS.
 
-## 📌 Original Project and Attribution
-
-This project was originally based on:
-
-**College-ERP-Using-Reactjs-And-Java-Spring-Boot**
-
-Original repository:
-
-https://github.com/JadhavC07/College-ERP-Using-Reactjs-And-Java-Spring-Boot
-
-This submission is an adapted academic version. The implementation has been modified to remove Firebase/image functionality, change the application branding, remove demo/personal branding, and improve database-backed role workflows for the project requirements.
 
 ## 💡 Contribution
 
@@ -323,5 +312,4 @@ This project is developed for a **B.Tech final-year academic submission** to dem
 **Project Name:** Vignan College ERP System  
 **Application Type:** Academic Management / College ERP  
 **Architecture:** React + Spring Boot REST API + MySQL  
-**Firebase:** Removed  
-**Profile Image Storage:** Removed
+
